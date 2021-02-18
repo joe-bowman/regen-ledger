@@ -31,4 +31,6 @@ require (
 
 replace github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.2-alpha.regen.4
 
-replace github.com/tendermint/tendermint => github.com/joe-bowman/tendermint v0.34.5
+replace github.com/tendermint/tendermint => github.com/joe-bowman/tendermint v0.34.7
+
+replace github.com/cosmos/cosmos-sdk => github.com/joe-bowman/cosmos-sdk v0.41.0-1
